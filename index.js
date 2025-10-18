@@ -7,7 +7,7 @@ const app = express()
 
 const user = {
   email: "min123kabir@gmail.com",
-  name: "Amin Abulkabir",
+  name: "Amin Abdulkabir",
   stack: "Node.js/Express"
 }
 
